@@ -1,26 +1,20 @@
 # Configurations Files
 + .bash_aliases
 + .bash_history
-#+ .bashrc
-#+ .gitconfig
 + .gtktermrc
-#+ .screenrc
 
 # Configuration Dirs
-#+ .TinyCA/***
 + .android/***
-+ .atom/***
 + .config/
-+ .config/Atom/***
-#+ .config/VirtualBox/***
 + .config/chromium/***
 + .config/deadbeef/***
 + .config/deluge/***
 + .config/easytag/***
 + .config/google-chrome/***
-+ .config/gtk-3.0
++ .config/gtk-3.0/***
 + .config/keepassx/***
 + .config/tomboy/***
++ .config/transmission/***
 + .config/vlc/***
 #+ .filezilla/***
 + .fonts/***
@@ -33,11 +27,9 @@
 + .mozilla/***
 + .private/***
 + .purple/***
-#+ .sqldeveloper/***
 + .ssh/***
 + .themes/***
 + .thunderbird/***
-#+ .vim/***
 + .vpn/***
 + .xca/***
 
@@ -50,7 +42,6 @@
 + Pictures/***
 + Projects/***
 + Videos/***
-#+ VirtualBox/***
 + bin/***
 + tmp/***
 
