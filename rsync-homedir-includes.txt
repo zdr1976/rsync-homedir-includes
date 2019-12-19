@@ -9,9 +9,11 @@
 + .config/chromium/***
 + .config/easytag/***
 + .config/google-chrome/***
++ .config/gedit/***
 + .config/gtk-3.0/***
 + .config/keepassx/***
 + .config/mc/***
++ .config/Slack/***
 + .config/tomboy/***
 + .config/transmission/***
 + .config/vlc/***
@@ -22,6 +24,7 @@
 + .local/share/applications/***
 + .local/share/tomboy/***
 + .local/share/gedit/***
++ .local/share/gnome-shell/***
 + .mozilla/***
 + .private/***
 + .purple/***
