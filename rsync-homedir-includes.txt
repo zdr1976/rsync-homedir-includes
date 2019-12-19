@@ -1,40 +1,36 @@
 # Configurations Files
-+ .bash_aliases
++ .aliases
 + .bash_history
-+ .gtktermrc
++ .zsh_history
 
 # Configuration Dirs
 + .android/***
 + .config/
 + .config/chromium/***
-+ .config/deadbeef/***
-+ .config/deluge/***
 + .config/easytag/***
 + .config/google-chrome/***
 + .config/gtk-3.0/***
 + .config/keepassx/***
++ .config/mc/***
 + .config/tomboy/***
 + .config/transmission/***
 + .config/vlc/***
-#+ .filezilla/***
 + .fonts/***
-+ .gnupg/***
 + .keepass/***
 + .local/
 + .local/share/
 + .local/share/applications/***
 + .local/share/tomboy/***
++ .local/share/gedit/***
 + .mozilla/***
 + .private/***
 + .purple/***
 + .ssh/***
 + .themes/***
-+ .thunderbird/***
 + .vpn/***
 + .xca/***
 
 # User Data
-+ Backup/***
 + Doc_and_Books/***
 + Documents/***
 + Downloads/***
