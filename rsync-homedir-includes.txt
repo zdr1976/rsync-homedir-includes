@@ -2,34 +2,44 @@
 + .aliases
 + .bash_history
 + .zsh_history
++ .lftprc
++ .gtktermrc
 
 # Configuration Dirs
 + .config/
-+ .config/tomboy/***
++ .config/flake8
++ .config/VSCodium/***
++ .config/transmission/***
++ .config/keepassxc/***
++ .config/kx/***
++ .config/vlc/***
 + .gnupg/***
-+ .kube/
-+ .kube/config
-+ .kube/*.crt
++ .kube/***
 + .keepassx/***
 + .local/
 + .local/share/
++ .local/share/applications/***
 + .local/share/gedit/***
 + .local/share/tomboy/***
++ .local/share/Trash/***
++ .local/share/gnome-shell/
++ .local/share/gnome-shell/extensions/***
 + .mozilla/
 + .mozilla/firefox/***
++ .private/***
 + .ssh/***
 + .vpn/***
++ .vscode-oss/***
 
 # User Data
 + Books/***
 + Documents/***
-+ Downloads/
-+ Downloads/Software/***
++ Downloads/***
 + Pictures/***
-+ bin/
-+ bin/hugo
-+ bin/k8s-vault*
-+ bin/vault
++ Projects/***
++ Videos/***
++ bin/***
++ tmp/***
 
 # Skip rest
 - *
