@@ -1,29 +1,33 @@
 # Configurations Files
 + .aliases
 + .bash_history
-+ .zsh_history
-+ .lftprc
 + .gtktermrc
++ .lftprc
++ .npmrc
++ .psql_history
++ .python_history
++ .zsh_history
 
 # Configuration Dirs
 + .config/
-+ .config/flake8
++ .config/Slack/***
 + .config/VSCodium/***
-+ .config/transmission/***
++ .config/flake8
 + .config/keepassxc/***
 + .config/kx/***
++ .config/transmission/***
 + .config/vlc/***
 + .gnupg/***
-+ .kube/***
 + .keepassx/***
++ .kube/***
 + .local/
 + .local/share/
++ .local/share/Trash/***
 + .local/share/applications/***
 + .local/share/gedit/***
-+ .local/share/tomboy/***
-+ .local/share/Trash/***
 + .local/share/gnome-shell/
 + .local/share/gnome-shell/extensions/***
++ .local/share/gnote/***
 + .mozilla/
 + .mozilla/firefox/***
 + .private/***
