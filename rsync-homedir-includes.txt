@@ -1,5 +1,6 @@
 # Configurations Files
 + .aliases
++ .bash_completion
 + .bash_history
 + .gtktermrc
 + .lftprc
