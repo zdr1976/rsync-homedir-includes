@@ -11,6 +11,7 @@
 
 # Configuration Dirs
 + .config/
++ .config/chromium/***
 + .config/Slack/***
 + .config/VSCodium/***
 + .config/flake8
