@@ -12,14 +12,13 @@
 # Configuration Dirs
 + .config/
 + .config/chromium/***
-+ .config/Slack/***
 + .config/VSCodium/***
 + .config/flake8
 + .config/keepassxc/***
 + .config/kx/***
++ .config/k9s/***
 + .config/transmission/***
 + .config/vlc/***
-+ .gnupg/***
 + .keepassx/***
 + .kube/***
 + .local/
