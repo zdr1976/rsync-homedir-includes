@@ -12,6 +12,7 @@
 # Configuration Dirs
 + .config/
 + .config/chromium/***
++ .config/BraveSoftware/***
 + .config/VSCodium/***
 + .config/flake8
 + .config/keepassxc/***
