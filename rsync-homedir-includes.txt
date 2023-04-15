@@ -2,12 +2,6 @@
 + .aliases
 + .bash_completion
 + .bash_history
-+ .gtktermrc
-+ .lftprc
-+ .npmrc
-+ .psql_history
-+ .python_history
-+ .zsh_history
 
 # Configuration Dirs
 + .config/
@@ -25,7 +19,6 @@
 + .local/share/
 + .local/share/Trash/***
 + .local/share/applications/***
-+ .local/share/gedit/***
 + .local/share/gnome-shell/
 + .local/share/gnome-shell/extensions/***
 + .local/share/gnote/***
